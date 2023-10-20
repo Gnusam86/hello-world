@@ -32,3 +32,6 @@ print(users)
 
 users[1:3]=['Robert','JPJ']
 print(users)
+
+users.remove('Bob')
+print(users)
